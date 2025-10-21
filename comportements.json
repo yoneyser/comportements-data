@@ -1,9 +1,8 @@
 {
   "ComportementR": 1,
-  "lastUpdate": "2025-10-21T16:27:20.775Z",
-  "ComportementT": 5,
   "ComportementR_emoji": "😟",
   "ComportementR_name": "Whisper",
+  "lastUpdate": "2025-10-21T16:27:22.146Z",
   "frames": [
     {
       "text": "Raph",
@@ -11,9 +10,7 @@
     },
     {
       "text": "Tim",
-      "icon": "70788"
+      "icon": "70792"
     }
-  ],
-  "ComportementT_emoji": "😄",
-  "ComportementT_name": "Outside"
+  ]
 }
