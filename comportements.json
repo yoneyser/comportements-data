@@ -1,7 +1,7 @@
 {
   "ComportementR": 4,
-  "lastUpdate": "2025-10-21T10:12:08.182Z",
-  "ComportementT": 3,
+  "lastUpdate": "2025-10-21T10:12:12.916Z",
+  "ComportementT": 4,
   "ComportementR_emoji": "😊",
   "ComportementR_name": "Presenting",
   "frames": [
@@ -11,9 +11,9 @@
     },
     {
       "text": "T",
-      "icon": "70790"
+      "icon": "70789"
     }
   ],
-  "ComportementT_emoji": "🙂",
-  "ComportementT_name": "Talking"
+  "ComportementT_emoji": "😊",
+  "ComportementT_name": "Presenting"
 }
