@@ -1,12 +1,19 @@
 {
+  "ComportementR": 3,
+  "lastUpdate": "2025-10-21T09:01:43.925Z",
+  "ComportementT": 3,
+  "ComportementR_emoji": "🙂",
+  "ComportementR_name": "Talking",
   "frames": [
     {
-      "text": "R:😐",
+      "text": "R:🙂",
       "icon": "i2"
     },
     {
       "text": "T:🙂",
       "icon": "i2"
     }
-  ]
+  ],
+  "ComportementT_emoji": "🙂",
+  "ComportementT_name": "Talking"
 }
