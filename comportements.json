@@ -1,13 +1,17 @@
 {
   "ComportementR": 5,
-  "lastUpdate": "2025-10-21T09:48:45.377Z",
+  "lastUpdate": "2025-10-21T09:54:27.887Z",
   "ComportementT": 4,
   "ComportementR_emoji": "😄",
   "ComportementR_name": "Outside",
   "frames": [
     {
-      "text": "R:+++ T:++",
-      "icon": "i2"
+      "text": "R",
+      "icon": "70788"
+    },
+    {
+      "text": "T",
+      "icon": "70789"
     }
   ],
   "ComportementT_emoji": "😊",
