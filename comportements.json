@@ -1,13 +1,13 @@
 {
-  "ComportementR": 4,
-  "lastUpdate": "2025-10-21T13:50:46.975Z",
+  "ComportementR": 3,
+  "lastUpdate": "2025-10-21T13:51:28.216Z",
   "ComportementT": 5,
-  "ComportementR_emoji": "😊",
-  "ComportementR_name": "Presenting",
+  "ComportementR_emoji": "🙂",
+  "ComportementR_name": "Talking",
   "frames": [
     {
       "text": "Raph",
-      "icon": "70789"
+      "icon": "70790"
     },
     {
       "text": "Tim",
