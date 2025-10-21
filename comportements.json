@@ -1,9 +1,4 @@
 {
-  "ComportementR": 2,
-  "lastUpdate": "2025-10-21T08:58:56.879Z",
-  "ComportementT": 3,
-  "ComportementR_emoji": "😐",
-  "ComportementR_name": "Neighbor",
   "frames": [
     {
       "text": "R:😐",
@@ -13,7 +8,5 @@
       "text": "T:🙂",
       "icon": "i2"
     }
-  ],
-  "ComportementT_emoji": "🙂",
-  "ComportementT_name": "Talking"
+  ]
 }
