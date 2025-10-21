@@ -2,7 +2,7 @@
   "ComportementR": 3,
   "ComportementR_emoji": "🙂",
   "ComportementR_name": "Talking",
-  "lastUpdate": "2025-10-21T16:28:33.463Z",
+  "lastUpdate": "2025-10-21T16:28:38.791Z",
   "frames": [
     {
       "text": "Raph",
@@ -10,10 +10,10 @@
     },
     {
       "text": "Tim",
-      "icon": "21697"
+      "icon": "70790"
     }
   ],
-  "ComportementT": 2,
-  "ComportementT_emoji": "😐",
-  "ComportementT_name": "Neighbor"
+  "ComportementT": 3,
+  "ComportementT_emoji": "🙂",
+  "ComportementT_name": "Talking"
 }
