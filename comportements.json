@@ -1,7 +1,7 @@
 {
   "ComportementR": 0,
-  "lastUpdate": "2025-10-21T11:02:25.168Z",
-  "ComportementT": 3,
+  "lastUpdate": "2025-10-21T11:04:11.451Z",
+  "ComportementT": 4,
   "ComportementR_emoji": "😢",
   "ComportementR_name": "Silence",
   "frames": [
@@ -11,9 +11,9 @@
     },
     {
       "text": "Tim",
-      "icon": "70790"
+      "icon": "70789"
     }
   ],
-  "ComportementT_emoji": "🙂",
-  "ComportementT_name": "Talking"
+  "ComportementT_emoji": "😊",
+  "ComportementT_name": "Presenting"
 }
