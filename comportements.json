@@ -1,19 +1,19 @@
 {
-  "ComportementR": 1,
-  "ComportementR_emoji": "😟",
-  "ComportementR_name": "Whisper",
-  "lastUpdate": "2025-10-21T16:27:30.310Z",
+  "ComportementR": 2,
+  "lastUpdate": "2025-10-21T16:27:31.160Z",
+  "ComportementT": 5,
+  "ComportementR_emoji": "😐",
+  "ComportementR_name": "Neighbor",
   "frames": [
     {
       "text": "Raph",
-      "icon": "70791"
+      "icon": "21697"
     },
     {
       "text": "Tim",
-      "icon": "70791"
+      "icon": "70788"
     }
   ],
-  "ComportementT": 1,
-  "ComportementT_emoji": "😟",
-  "ComportementT_name": "Whisper"
+  "ComportementT_emoji": "😄",
+  "ComportementT_name": "Outside"
 }
