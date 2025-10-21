@@ -1,11 +1,7 @@
 {
   "frames": [
     {
-      "text": "R:++",
-      "icon": "i2"
-    },
-    {
-      "text": "T:+",
+      "text": "R:++ T:++",
       "icon": "i2"
     }
   ]
