@@ -1,8 +1,9 @@
 {
   "ComportementR": 5,
+  "lastUpdate": "2025-12-15T11:14:08.617Z",
+  "ComportementT": 4,
   "ComportementR_emoji": "😄",
   "ComportementR_name": "Outside",
-  "lastUpdate": "2025-11-16T09:48:44.738Z",
   "frames": [
     {
       "text": "Raph",
@@ -13,7 +14,6 @@
       "icon": "70789"
     }
   ],
-  "ComportementT": 4,
   "ComportementT_emoji": "😊",
   "ComportementT_name": "Presenting"
 }
