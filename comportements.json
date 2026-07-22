@@ -1,7 +1,7 @@
 {
   "ComportementR": 5,
-  "lastUpdate": "2026-07-22T18:22:50.232Z",
-  "ComportementT": 3,
+  "lastUpdate": "2026-07-22T18:22:55.663Z",
+  "ComportementT": 2,
   "ComportementR_emoji": "😄",
   "ComportementR_name": "Outside",
   "frames": [
@@ -11,9 +11,9 @@
     },
     {
       "text": "Tim",
-      "icon": "70790"
+      "icon": "21697"
     }
   ],
-  "ComportementT_emoji": "🙂",
-  "ComportementT_name": "Talking"
+  "ComportementT_emoji": "😐",
+  "ComportementT_name": "Neighbor"
 }
